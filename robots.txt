@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /sitelinks.xml
+Disallow: /thank-you.html
